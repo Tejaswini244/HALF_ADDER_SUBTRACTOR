@@ -87,6 +87,21 @@ endmodule
 Developed by:TEJASWINI R
 RegisterNumber:24009408
 
+**Truth Table**
+
+Half Adder
+
+Sum = A’B+AB’ =A ⊕ B Carry = AB
+
+![Screenshot (58)](https://github.com/user-attachments/assets/97c92a6f-6272-4af0-a838-6f2fc3af58ce)
+
+Half Subtractor
+
+Diff = A’B+AB’ =A ⊕ B
+Borrow = A’B
+
+![Screenshot (57)](https://github.com/user-attachments/assets/72f6cb8b-9814-4148-b870-8cd71a4d939e)
+
 **RTL**
 
 Half Adder
@@ -118,4 +133,4 @@ Borrow = A’B
 ![exp 3 H S out](https://github.com/user-attachments/assets/d50b3ec1-ca33-453f-893e-8596f67df217)
 
 **Result:**
-The program is verified.
+The half adder and half subtractor circuit was verified.
